@@ -1,4 +1,4 @@
-# TimeSense: Making Large Language Models Proficient in Time‑Series Analysis
+# TimeSense: Decoupling Modality Learning for Robust Time Series Reasoning
 
 TimeSense is a multimodal framework that equips LLMs with temporal understanding for time-series analysis. It balances textual reasoning with a preserved temporal sense via a Temporal Sense module and coordinate-based positional embeddings.
 
